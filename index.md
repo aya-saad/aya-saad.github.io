@@ -15,15 +15,15 @@ Postdoc researcher working on automating and embedding methods in microscopy int
 Robotic Vision, Computer Vision, Robust AI, Constraint Programming and Optimization, Reasoning about Uncertainty
 
 ### Current Master thesis co-supervision:
-1. Unsupervised-Learning of the bag-of-features representation of planktonic organisms (Eivind Salvesen)
-2. Applying Deep-learning methods of One-shot / Zero-shot Image Recognition to discover new unknown classes (Andreas Langeland)
-3. Advanced techniques for segmentation to identify plankton-taxa and their distribution. (Jonas Borgersen)
-4. Applying active-learning techniques in machine learning to minimize the labeling effort (Martin Haug)
+- Unsupervised-Learning of the bag-of-features representation of planktonic organisms (Eivind Salvesen)
+- Applying Deep-learning methods of One-shot / Zero-shot Image Recognition to discover new unknown classes (Andreas Langeland)
+- Advanced techniques for segmentation to identify plankton-taxa and their distribution. (Jonas Borgersen)
+- Applying active-learning techniques in machine learning to minimize the labeling effort (Martin Haug)
 
 ### Previous Master thesis co-supervision (graduated June 2020)
-1. Applying Transfer Learning techniques to train deep learning over multiple datasets of planktons. (Sverre Anders Torp)
-2. Machine learning methodologies that solve the class-imbalance problem for datasets of planktonic organisms. (Oda Kiese)
-3. Advanced techniques for segmentation to identify plankton-taxa and their distribution. (Sondre Bergum)
+- Applying Transfer Learning techniques to train deep learning over multiple datasets of planktons. (Sverre Anders Torp)
+- Machine learning methodologies that solve the class-imbalance problem for datasets of planktonic organisms. (Oda Kiese)
+- Advanced techniques for segmentation to identify plankton-taxa and their distribution. (Sondre Bergum)
 
 ### Other Activities
 Currently a member of the IDUN-ITK group at NTNU, which is part of the “IDUN – from Ph.D. to professor” project. The IDUN project main goal is to promote the female representation in academia. Thereof, the ITK group main research focus in a 2-years journey is to develop methodologies of Robust AI learning and to ensure their applicability to broad set of applications such as robotic control.
