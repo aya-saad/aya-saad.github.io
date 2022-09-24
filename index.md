@@ -1,35 +1,37 @@
 # Aya Saad 
 
-Postdoctoral Researcher
+Research Scientist
 
-[Department of Engineering Cybernetics](https://www.ntnu.no/itk)  
-[Norwegian University of Science and Technology](https://www.ntnu.no) 
+[Department of Aquaculture]  
+[SINTEF Ocean (https://www.sintef.no/en/all-employees/employee/aya.saad/)
 
-Elektro D/B2, D452C, Gløshaugen
+Trondheim, Norway
 
 #
 
-Postdoc researcher working on automating and embedding methods in microscopy into mobile robotic platforms, for real-time targeted plankton-taxa identification and classification, that feeds the process of autonomous navigation control and mapping, which assists in modeling oceanographic phenomena. A new framework for this task is under development. Examples of ML methods explored are listed but not limited to: Mask-RCNN and attention segmentation to perform real-time segmentation; Learning the Bag-of-features to better classify identified objects; Active learning to minimize the labeling task effort; C-GAN to solve the class imbalance problem; and, methods of unsupervised learning to identify unknown extracted objects in-situ.
+Research Scientist at the department of aquaculture in SINTEF Ocean participating in many projects working in Artificial Intelligent, Robotic Vision, Machine Learning, data analysis, modeling, knowledge representation, simulations, reasoning, optimization and robust decision support systems.
 
 ### Research interests 
-Robust AI, Robotic Vision, Computer Vision, Constraint Programming and Optimization, Reasoning about Uncertainty
+Robust AI, Robotic Vision, Computer Vision, Constraint Programming and Optimization, Reasoning about Uncertainty, robust decision support systems
 
-### Current Master thesis supervision:
-- Advanced techniques for segmentation to identify plankton-taxa and their distribution. (Jonas Borgersen)
-- Applying active-learning techniques in machine learning to minimize the labeling effort (Martin Haug)
-
-### Previous Master thesis supervision 
-- Unsupervised-Learning of the bag-of-features representation of planktonic organisms (Eivind Salvesen)
-- Applying Deep-learning methods of One-shot / Zero-shot Image Recognition to discover new unknown classes (Andreas Langeland)
-- Advanced techniques for segmentation to identify plankton-taxa and their distribution. (Sondre Bergum)
-- Machine learning methodologies that solve the class-imbalance problem for datasets of planktonic organisms. (Oda Kiese)
-- Applying Transfer Learning techniques to train deep learning over multiple datasets of planktons. (Sverre Anders Torp)
+### Master thesis supervision for 10+ students 
+- Advanced techniques for segmentation to identify plankton-taxa and their distribution. 
+- Applying active-learning techniques in machine learning to minimize the labeling effort. 
+- Unsupervised-Learning of the bag-of-features representation of planktonic organisms.
+- Applying Deep-learning methods of One-shot / Zero-shot Image Recognition to discover new unknown classes.
+- Advanced techniques for segmentation to identify plankton-taxa and their distribution. 
+- Machine learning methodologies that solve the class-imbalance problem for datasets of planktonic organisms. 
+- Applying Transfer Learning techniques to train deep learning over multiple datasets of planktons. 
 
 ### Other Activities
-Currently a member of the IDUN-ITK group at NTNU, which is part of the “IDUN – from Ph.D. to professor” project. The IDUN project main goal is to promote the female representation in academia. The ITK group main research focus in a 2-years journey is to develop methodologies of Robust AI learning and to ensure their applicability to a broad set of applications such as robotic control.
+A member of the IDUN-ITK group at NTNU, which is part of the “IDUN – from Ph.D. to professor” project. The IDUN project main goal is to promote the female representation in academia. The ITK group main research focus in a 2-years journey is to develop methodologies of Robust AI learning and to ensure their applicability to a broad set of applications such as robotic control. (2020-2022)
+
+Participate as a teacher assistant at the Probabilistic AI summer school, June 2021. The school aims at expanding the knowledge of state-of-the-art Machine learning and artificial intelligence by providing theoretical background and hands-on tutorials on new methodologies, implementations, and practical examples on: probabilistic modeling, variational inference, probabilistic programming, and deep generative models. The school is registered as a Ph.D. course at NTNU with 7.5 credit points. https://probabilistic.ai/.
 
 ### Publication List
-- Håkansson, Anne; Saad, Aya; Anand, Akhil; Gjærum, Vilde Benoni; Robinson, Haakon; Seel, Katrine. (2021) Robust Reasoning for Autonomous Cyber-Physical Systems in Dynamic Environments. 25th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems, 2021-09-08 - 2021-09-10.Procedia Computer Science. vol. 192C, pp. 3966-3978.
+- Saad, A., Nissen, O., Eilertsen, E., Bjørnson, F.O., Hagtun, T., Aspaas, O., Baikas, A., Ohrem, S., (2022) Towards Improved Visualization and Optimization of Aquaculture Production Process. 26th International Conference on Knowledge-Based and Intelligent Information and Engineering Systems (KES 2022), 2022-09-07- 2021-09-9, Verona, Italy. Procedia Computer Science.
+- Saad, S., Håkansson, A., (2022) RAMARL: Robustness Analysis with Multi-Agent Reinforcement Learning - Robust Reasoning in Autonomous Cyber-Physical Systems. 26th International Conference on Knowledge-Based and Intelligent Information and Engineering Systems (KES 2022), 2022-09-07- 2021-09-9, Verona, Italy. Procedia Computer Science.
+- Håkansson, Anne; Saad, Aya; Anand, Akhil; Gjærum, Vilde Benoni; Robinson, Haakon; Seel, Katrine. (2021) Robust Reasoning for Autonomous Cyber-Physical Systems in Dynamic Environments. 25th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems, 2021-09-08 - 2021-09-10. Procedia Computer Science. vol. 192C, pp. 3966-3978.
 - Anand, Akhil; Seel, Katrine; Gjærum, Vilde Benoni; Håkansson, Anne; Robinson, Haakon; Saad, Aya. (2021) Safe Learning for Control using Control Lyapunov Functions and Control Barrier Functions: A Review. 25th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems, 2021-09-08 - 2021-09-10. Procedia Computer Science. vol. 192C.
 - Borgersen, Jonas; Saad, Aya; Stahl, Annette (2021) MOG: a background extraction approach for data augmentation of time-series images in deep learning segmentation. Proceedings of SPIE, The 14th International Conference on Machine Vision (ICMV), Rome, Italy, 2021-11-08 - 2021-11-12.
 - Salvesen, Eivind; Saad, Aya; Stahl, Annette (2021) Robust Deep Unsupervised Learning Framework to Discover Unseen Plankton Species. Proceedings of SPIE, The 14th International Conference on Machine Vision (ICMV), Rome, Italy, 2021-11-08 - 2021-11-12.
