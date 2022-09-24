@@ -2,8 +2,8 @@
 
 Research Scientist
 
-[Department of Aquaculture]  
-[SINTEF Ocean (https://www.sintef.no/en/all-employees/employee/aya.saad/)
+Department of Aquaculture  
+SINTEF Ocean (https://www.sintef.no/en/all-employees/employee/aya.saad/)
 
 Trondheim, Norway
 
