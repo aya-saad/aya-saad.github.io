@@ -91,6 +91,13 @@ https://ieeexplore.ieee.org/document/9389377.
 
 [W.1]	Saad, A., Invited Talk with title: From a Generic to a Customized Framework: Paving the Way for WebCT, Presented in Syllabus Fall 2002 Conference. November 2002, Boston Mariott Newton, Boston MA, USA, 2002.
 
+#### Popular Science Articles and interviews
+Gemini article by Nancy Bazilchuk, A robotic microplankton sniffer-dog https://norwegianscitechnews.com/2021/05/a-robotic-microplankton-sniffer-dog/ (May 2021)
+
+### Conference Organizations and Participations
+Chair of the Robust AI, an invited session at the International Conference of Knowledge-Based and Intelligent Engineering Systems (KES) since September 2021.
+
+
 ### Member of the reviewing committees
 -	The International Symposium on Big Data Principles, Architectures, and Application (BDAA).
 -	The IEEE International Conference on Cyber, Physical and Social Computing (CPSCOM).
