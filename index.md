@@ -42,6 +42,10 @@ Participate as a teacher assistant at the Probabilistic AI summer school, June 2
 [J.1]	Saad, A., Gervet, C., and Abdennadher, S. 2010. Constraint Reasoning with Uncertain Data Using CDF-Intervals. International Conference on the Integration of AI and OR Techniques in Constraint Programming, CPAIOR 2010, 292–306, Springer Verlag. https://doi.org/10.1007/978-3-642-13520-0_32, 2010.
 
 #### Conference Publications
+[C.16]	Saad, A., Su, B., Bjørnson, F.O., A Web-Based Platform for Efficient and Robust Simulation of Aquaculture Systems using Integrated Intelligent Agents. The 27th International Conference on Knowledge-Based and Intelligent Information and Engineering Systems (KES 2023), 2023-09-06- 2023-09-8, Athens, Greece. Procedia Computer Science.
+
+[C.15]	Saad, A., Jakobsen, S., Bondø, M., Mulelid, M., Kelasidi, E., StereoYolo+DeepSORT: A Framework to  Track Fish from Underwater Stereo Camera in Situ. Proceedings of SPIE, The 16th International Conference on Machine Vision (ICMV), 2023-11-15 - 2023-11-18, Yerevan, Armenia.
+
 [C.14]	Saad, A., Nissen, O., Eilertsen, E., Bjørnson, F.O., Hagtun, T., Aspaas, O., Baikas, A., Ohrem, S., Towards Improved Visualization and Optimization of Aquaculture Production Process. The 26th International Conference on Knowledge-Based and Intelligent Information and Engineering Systems (KES 2022), 2022-09-07- 2022-09-9, Verona, Italy. Procedia Computer Science, Elsevier 207 (2022), pp. 3439-3448. https://doi.org/10.1016/j.procs.2022.09.531 
 
 [C.13]	Saad, S., Håkansson, A., RAMARL: Robustness Analysis with Multi-Agent Reinforcement Learning - Robust Reasoning in Autonomous Cyber-Physical Systems. The 26th International Conference on Knowledge-Based and Intelligent Information and Engineering Systems (KES 2022), 2022-09-07- 2022-09-9, Verona, Italy. Procedia Computer Science, Elsevier 207 (2022), pp. 3662-3671. https://doi.org/10.1016/j.procs.2022.09.426 
@@ -51,9 +55,9 @@ https://doi.org/10.1016/j.ifacol.2021.10.129.
 
 [C.11]	Haug, M., Saad, A., Stahl, A., CIRAL: a hybrid active learning framework for plankon taxa labeling. Control Engineering Practice 2021, 13th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles, 2021-09-22 – 2021-09-24, Oldenburg, Germany, Elsevier, IFAC-PaperOnline Volume 54, Issue 16, (2021), pp 450-457. https://doi.org/10.1016/j.ifacol.2021.10.130. 
 
-[C.10]	Salvesen, E., Saad, A., Stahl, A. Robust Deep Unsupervised Learning Framework to Discover Unseen Plankton Species. Proceedings of SPIE, The 14th International Conference on Machine Vision (ICVM), 2021-11-08 - 2021-11-12, Rome, Italy, 2021. Volume 12084, pp 241-250, (2022). https://doi.org/10.1117/12.2622489. 
+[C.10]	Salvesen, E., Saad, A., Stahl, A. Robust Deep Unsupervised Learning Framework to Discover Unseen Plankton Species. Proceedings of SPIE, The 14th International Conference on Machine Vision (ICMV), 2021-11-08 - 2021-11-12, Rome, Italy, 2021. Volume 12084, pp 241-250, (2022). https://doi.org/10.1117/12.2622489. 
 
-[C.9]	Borgersen, J., Saad, A., Stahl, A. MOG: a background extraction approach for data augmentation of time-series images in deep learning segmentation. Proceedings of SPIE, The 14th International Conference on Machine Vision (ICVM), 2021-11-08 - 2021-11-12, Rome, Italy, 2021, Volume 12084, pp 360-368, (2022). https://doi.org/10.1117/12.2622899. 
+[C.9]	Borgersen, J., Saad, A., Stahl, A. MOG: a background extraction approach for data augmentation of time-series images in deep learning segmentation. Proceedings of SPIE, The 14th International Conference on Machine Vision (ICMV), 2021-11-08 - 2021-11-12, Rome, Italy, 2021, Volume 12084, pp 360-368, (2022). https://doi.org/10.1117/12.2622899. 
 
 [C.8]	Anand, A., Seel, K., Gjærum, V., Håkansson, A., Robinson, H., Saad, S. Safe Learning for Control using Control Lyapunov Functions and Control Barrier Functions: A Review. The 25th International Conference on Knowledge-Based and Intelligent Information and Engineering Systems (KES 2021), 2021-09-08- 2021-09-10, Szczecin, Poland. Procedia Computer Science, Volume 192, (2021), pp 3987-3997.
 https://doi.org/10.1016/j.procs.2021.09.173. 
@@ -63,7 +67,7 @@ https://doi.org/10.1016/j.procs.2021.09.171.
 
 [C.6]	Haug, Martin; Saad, Aya; Stahl, Annette. A combined informative and representative active learning approach for plankton taxa labeling. Proceeding of SPIE, The 13th International Conference on Digital Image Processing (ICDIP), June 30th, 2021, Singapore, Volume 11878, (2021), pp 495-503. https://doi.org/10.1117/12.2601096.
 
-[C.5]	Saad, A., Bergum, S., Stahl, A. An Instance Segmentation Framework for In-situ Plankton Taxa Assessment. Proceedings of SPIE, The 13th International Conference on Machine Vision (ICVM), 1160511, Rome, Italy, 2020-11-02 - 2020-11-06, Volume 11605, (2021), pp 294-303. https://doi.org/10.1117/12.2587693. 
+[C.5]	Saad, A., Bergum, S., Stahl, A. An Instance Segmentation Framework for In-situ Plankton Taxa Assessment. Proceedings of SPIE, The 13th International Conference on Machine Vision (ICMV), 1160511, Rome, Italy, 2020-11-02 - 2020-11-06, Volume 11605, (2021), pp 294-303. https://doi.org/10.1117/12.2587693. 
 
 [C.4]	Bergum, S., Saad, A., Stahl, A. Automatic in-situ instance and semantic segmentation of planktonic organisms using Mask R-CNN. IEEE Oceanic Engineering Society & Marine Technology Society - Singapore, 2020-10-5 - 2020-10-14, (2020).
 https://ieeexplore.ieee.org/document/9389377.
