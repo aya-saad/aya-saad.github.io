@@ -35,6 +35,8 @@ Participate as a teacher assistant at the Probabilistic AI summer school, June 2
 [T.1]	Saad, A. CDF-intervals: A Probabilistic Interval Constraint Framework to Reason about Data with Uncertainty. Open Access Repositorium der Universität Ulm. Dissertation. http://dx.doi.org/10.18725/OPARU-3966, 2016. 
 
 #### Journal Publications
+[J.4]	Ansari, S., Desai, D.V., Saad, A., Stahl, A., Implications of single-stage deep learning networks in real-time zooplankton identification, Current Science, Volume 125, Issue 11, (2023), pp 1259-1266, doi: 10.18520/cs/v125/i11/1259-1266, 2023. 
+
 [J.3]	Saad, A., Stahl, A., Våge, A., Davies, E., Nordam, T., Aberle-Malzahn, N., Ludvigsen, M., Johnsen, G. Sousa, J., Rajan, K. Advancing Ocean Observation with an AI-driven Mobile Robotic Explorer. Oceanography. Vol. 33 (3). https://doi.org/10.5670/oceanog.2020.307, 2020. 
 
 [J.2]	Saad, A., Frühwirth, T., and Gervet, C. 2014. The P-Box CDF-Intervals: A Reliable Constraint Reasoning with Quantifiable Information. Theory and Practice of Logic Programming, vol 14, special issue 4-5: The 30th International Conference on Logic Programming, ICLP2014, July 2014, pp. 461-475. https://doi.org/10.1017/S1471068414000143, 2014.
