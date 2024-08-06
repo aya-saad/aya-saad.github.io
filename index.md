@@ -52,7 +52,7 @@ Participate as a teacher assistant at the Probabilistic AI summer school, June 2
 
 [C.16]	Saad, A., Su, B., Bjørnson, F.O., A Web-Based Platform for Efficient and Robust Simulation of Aquaculture Systems using Integrated Intelligent Agents. The 27th International Conference on Knowledge-Based and Intelligent Information and Engineering Systems (KES 2023), 2023-09-06- 2023-09-8, Athens, Greece. Procedia Computer Science.
 
-[C.15]	Saad, A., Jakobsen, S., Bondø, M., Mulelid, M., Kelasidi, E., StereoYolo+DeepSORT: A Framework to  Track Fish from Underwater Stereo Camera in Situ. Proceedings of SPIE, The 16th International Conference on Machine Vision (ICMV), 2023-11-15 - 2023-11-18, Yerevan, Armenia.
+[C.15]	Saad, A., Jakobsen, S., Bondø, M., Mulelid, M., Kelasidi, E., StereoYolo+DeepSORT: A Framework to  Track Fish from Underwater Stereo Camera in Situ. Proceedings of SPIE, The 16th International Conference on Machine Vision (ICMV), 2023-11-15 - 2023-11-18, Yerevan, Armenia. https://doi.org/10.1117/12.3023414
 
 [C.14]	Saad, A., Nissen, O., Eilertsen, E., Bjørnson, F.O., Hagtun, T., Aspaas, O., Baikas, A., Ohrem, S., Towards Improved Visualization and Optimization of Aquaculture Production Process. The 26th International Conference on Knowledge-Based and Intelligent Information and Engineering Systems (KES 2022), 2022-09-07- 2022-09-9, Verona, Italy. Procedia Computer Science, Elsevier 207 (2022), pp. 3439-3448. https://doi.org/10.1016/j.procs.2022.09.531 
 
