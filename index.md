@@ -44,6 +44,12 @@ Participate as a teacher assistant at the Probabilistic AI summer school, June 2
 [J.1]	Saad, A., Gervet, C., and Abdennadher, S. 2010. Constraint Reasoning with Uncertain Data Using CDF-Intervals. International Conference on the Integration of AI and OR Techniques in Constraint Programming, CPAIOR 2010, 292–306, Springer Verlag. https://doi.org/10.1007/978-3-642-13520-0_32, 2010.
 
 #### Conference Publications
+[C.19] Saad, A., Baikas, A., Remen, M., Bjørnson, F.O., Optimizing Feeding Strategies in Aquaculture Using Machine Learning: Ensuring Sustainable and Economically Viable Fish Farming Practices. The 28th International Conference on Knowledge-Based and Intelligent Information and Engineering Systems (KES 2024), 2024-09-011- 2024-09-13, Seville, Spain. Procedia Computer Science.
+
+[C.18] Nissen, O., Saad, A., Modeling and Predicting Welfare of Farmed Atlantic Salmon: Integrative Domain Representation and Reasoning Strategies. The 28th International Conference on Knowledge-Based and Intelligent Information and Engineering Systems (KES 2024), 2024-09-011- 2024-09-13, Seville, Spain. Procedia Computer Science.
+
+[C.17] Schellewald, C., Saad, A., Stahl, A., Mouth Opening Frequency of Salmon from Underwater Video Exploiting Computer Vision, 15th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles, 2024-09-03 – 2021-09-06, Virginia Tech, USA, (2024), Elsevier, IFAC-PaperOnline
+
 [C.16]	Saad, A., Su, B., Bjørnson, F.O., A Web-Based Platform for Efficient and Robust Simulation of Aquaculture Systems using Integrated Intelligent Agents. The 27th International Conference on Knowledge-Based and Intelligent Information and Engineering Systems (KES 2023), 2023-09-06- 2023-09-8, Athens, Greece. Procedia Computer Science.
 
 [C.15]	Saad, A., Jakobsen, S., Bondø, M., Mulelid, M., Kelasidi, E., StereoYolo+DeepSORT: A Framework to  Track Fish from Underwater Stereo Camera in Situ. Proceedings of SPIE, The 16th International Conference on Machine Vision (ICMV), 2023-11-15 - 2023-11-18, Yerevan, Armenia.
