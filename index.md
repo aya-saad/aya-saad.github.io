@@ -8,7 +8,6 @@ SINTEF Ocean (https://www.sintef.no/en/all-employees/employee/aya.saad/)
 Trondheim, Norway
 
 
-
 Research Scientist at the department of aquaculture in SINTEF Ocean participating in many projects working in Artificial Intelligent, Robotic Vision, Machine Learning, data analysis, modeling, knowledge representation, simulations, reasoning, optimization and robust decision support systems.
 
 ### Research interests 
