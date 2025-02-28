@@ -13,7 +13,7 @@ Research Scientist at the department of aquaculture in SINTEF Ocean participatin
 ### Research interests 
 Artificial Intelligence, robust artificial intelligence, reliable computing, constraint programming, constraint reasoning with uncertain data, data modeling, knowledge representation, ontology creation, decision support systems, data analysis, optimization, visualization, machine learning, robotic and computer vision.
 
-### Master thesis supervision for 10+ students 
+### Master thesis supervision for 30+ students 
 - Using Deep Learning to Determine the Relevance of Photographs.
 - Advanced techniques for segmentation to identify plankton-taxa and their distribution. 
 - Advanced techniques for segmentation to identify plankton-taxa and their distribution. 
@@ -43,11 +43,11 @@ Participate as a teacher assistant at the Probabilistic AI summer school, June 2
 [J.1]	Saad, A., Gervet, C., and Abdennadher, S. 2010. Constraint Reasoning with Uncertain Data Using CDF-Intervals. International Conference on the Integration of AI and OR Techniques in Constraint Programming, CPAIOR 2010, 292–306, Springer Verlag. [https://doi.org/10.1007/978-3-642-13520-0_32](https://doi.org/10.1007/978-3-642-13520-0_32), 2010.
 
 #### Conference Publications
-[C.19] Saad, A., Baikas, A., Remen, M., Bjørnson, F.O., Optimizing Feeding Strategies in Aquaculture Using Machine Learning: Ensuring Sustainable and Economically Viable Fish Farming Practices. The 28th International Conference on Knowledge-Based and Intelligent Information and Engineering Systems (KES 2024), 2024-09-011- 2024-09-13, Seville, Spain. Procedia Computer Science.
+[C.19] Saad, A., Baikas, A., Remen, M., Bjørnson, F.O., Optimizing Feeding Strategies in Aquaculture Using Machine Learning: Ensuring Sustainable and Economically Viable Fish Farming Practices. The 28th International Conference on Knowledge-Based and Intelligent Information and Engineering Systems (KES 2024), 2024-09-011- 2024-09-13, Seville, Spain. Procedia Computer Science, Elsevier 246, (2024), pp. 4712-4721. [https://doi.org/10.1016/j.procs.2024.09.336](https://doi.org/10.1016/j.procs.2024.09.336).
 
-[C.18] Nissen, O., Saad, A., Modeling and Predicting Welfare of Farmed Atlantic Salmon: Integrative Domain Representation and Reasoning Strategies. The 28th International Conference on Knowledge-Based and Intelligent Information and Engineering Systems (KES 2024), 2024-09-011- 2024-09-13, Seville, Spain. Procedia Computer Science.
+[C.18] Nissen, O., Saad, A., Modeling and Predicting Welfare of Farmed Atlantic Salmon: Integrative Domain Representation and Reasoning Strategies. The 28th International Conference on Knowledge-Based and Intelligent Information and Engineering Systems (KES 2024), 2024-09-011- 2024-09-13, Seville, Spain. Procedia Computer Science, Elsevier 246, (2024), pp. 5017-5026. [https://doi.org/10.1016/j.procs.2024.09.574](https://doi.org/10.1016/j.procs.2024.09.574).
 
-[C.17] Schellewald, C., Saad, A., Stahl, A., Mouth Opening Frequency of Salmon from Underwater Video Exploiting Computer Vision, 15th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles, 2024-09-03 – 2021-09-06, Virginia Tech, USA, (2024), Elsevier, IFAC-PaperOnline
+[C.17] Schellewald, C., Saad, A., Stahl, A., Mouth Opening Frequency of Salmon from Underwater Video Exploiting Computer Vision, 15th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles, 2024-09-03 – 2021-09-06, Virginia Tech, USA, (2024), Elsevier 58 (20) pp. 313-318, IFAC-PaperOnline, [https://doi.org/10.1016/j.ifacol.2024.10.072](https://doi.org/10.1016/j.ifacol.2024.10.072).
 
 [C.16]	Saad, A., Su, B., Bjørnson, F.O., A Web-Based Platform for Efficient and Robust Simulation of Aquaculture Systems using Integrated Intelligent Agents. The 27th International Conference on Knowledge-Based and Intelligent Information and Engineering Systems (KES 2023), 2023-09-06- 2023-09-8, Athens, Greece. Procedia Computer Science. [https://doi.org/10.1016/j.procs.2023.10.454](https://doi.org/10.1016/j.procs.2023.10.454)
 
@@ -116,3 +116,7 @@ Chair of the Robust AI, an invited session at the International Conference of Kn
 -	The International Symposium on Practical Aspects of Declarative Languages (PADL).
 -	The IEEE International Conference on Internet of Things (iThings).
 -	The International Conference of Knowledge-Based and Intelligent Engineering Systems (KES).
+-	The Journal of Applied Sciences.
+-	Fisheries Science & Aquaculture.
+-	Springer Aquaculture International.
+-	Journal of Engineering and Applied Science.
